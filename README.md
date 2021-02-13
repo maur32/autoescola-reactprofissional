@@ -1,7 +1,7 @@
 # Auto Escola React Profissional
 
-![CircleCI](https://img.shields.io/circleci/build/github/maur32/autoescola-reactprofissional)
-![Codecov](https://img.shields.io/codecov/c/github/maur32/autoescola-reactprofissional)
+![CircleCI](https://img.shields.io/circleci/build/github/maur32/autoescola-reactprofissional/integracao-continua)
+[![Codecov](https://codecov.io/gh/maur32/autoescola-reactprofissional/branch/master/graph/badge.svg?token=YFVD4V4R01)](https://codecov.io/gh/maur32/autoescola-reactprofissional)
 
 Este projeto foi desenvolvido durante o curso [React Profissional](https://nardiniacademy.com/).
 
