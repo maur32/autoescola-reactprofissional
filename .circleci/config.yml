@@ -26,7 +26,7 @@ jobs:
       - checkout
       - run:
           name: Check package version
-          command: node check-version.js maur32 autoescola-reactprofissional
+          command: node scripts/check-version.js maur32 autoescola-reactprofissional
 workflows:
   ci:
     jobs:
