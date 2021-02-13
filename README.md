@@ -1,4 +1,4 @@
-# Auto Escola
+# Auto Escola React Profissional
 
 ![CircleCI](https://img.shields.io/circleci/build/github/maur32/autoescola-reactprofissional)
 ![Codecov](https://img.shields.io/codecov/c/github/maur32/autoescola-reactprofissional)
